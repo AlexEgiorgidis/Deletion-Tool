@@ -1,0 +1,39 @@
+{
+  "id": "ac0c1b17-eadf-40d8-bfdc-c8cf3a4b6d18",
+  "name": "Deletion Tool",
+  "publisher": "Sci-Net Ltd",
+  "version": "1.0.0.0",
+  "brief": "Deletion Tool",
+  "description": "Deletion Tool - Transactional Data",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50900,
+      "to": 50999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://EM-BaseApp/help/",
+  "showMyCode": true,
+  "target": "OnPrem",
+  "runtime": "5.0"
+}
